@@ -1,4 +1,6 @@
 # Obstacle-Avoidance-in-Autonomous-Vehicles
+[![Watch the video](Images/overv.png)](https://youtu.be/mkLCQwMbu28?si=zPxKU3PoMyOSjDJj)
+<h3><b>Final Project Video</b></h3><br>
 <img src="https://ksra.eu/wp-content/uploads/2020/06/cars16.jpg" >
 <h1>Abstract</h1>
 <p>Humans are habituated to using vehicles, drones, robots, etc. They face issues like obstacles, so we use Collision avoidance. Collision avoidance is essential to autonomous systems in various industries like autonomous vehicles, robotics, and industrial automation. Effective Collision avoidance systems are crucial to enhancing safety and preventing accidents. We will highlight real-world collision avoidance applications, from self-driving cars navigating complex urban environments.</p>
@@ -25,3 +27,4 @@
 <img src="Images/img4.jpg" >
 <img src="Images/img5.jpg" >
 <img src="Images/img6.jpg" >
+
