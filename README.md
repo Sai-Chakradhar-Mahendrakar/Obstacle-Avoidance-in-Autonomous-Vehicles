@@ -1,5 +1,5 @@
 # Obstacle-Avoidance-in-Autonomous-Vehicles
-[![Watch the video](Images/overv.png)](https://youtu.be/mkLCQwMbu28?si=zPxKU3PoMyOSjDJj)
+[![Watch the video](Images/Thumbnail.png)](https://youtu.be/mkLCQwMbu28?si=zPxKU3PoMyOSjDJj)
 <h3><b>Final Project Video</b></h3><br>
 <img src="https://ksra.eu/wp-content/uploads/2020/06/cars16.jpg" >
 <h1>Abstract</h1>
